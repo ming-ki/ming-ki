@@ -20,4 +20,6 @@
     <img src="https://img.shields.io/badge/Mobius IoT Platform-007396?style=flat-square&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 </p>
