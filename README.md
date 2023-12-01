@@ -24,5 +24,5 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> &nbsp
 </p>
 <h2 align="center"><b>📝 Publications 📝</b></h2>
-    <p align="center"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11487974"><img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp IoT-based PM Collection System and Forecasting Method, Proceedings of the Korea Computer Congress (한국정보과학회 한국컴퓨터종합학술대회), pp. 170-172, 2023</p>
+<p align="center"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11487974"><img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives</br>(Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp PM Concentration Prediction in Virtual Station Based on LSTM, Proceedings of the Joint Conference on Communications and Information (제33회 통신정보 합동학술대회), pp. 404-405, 2023</p>
